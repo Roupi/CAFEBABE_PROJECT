@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CAFEBABE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CAFEBABE_jar</output-path>
+    <root id="archive" name="CAFEBABE.jar">
+      <element id="module-output" name="CAFEBABE" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/external/slf4j-1.7.21/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/external/bcel-6.0/bcel-6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/external/logback-1.1.7/logback-core-1.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/external/logback-1.1.7/logback-classic-1.1.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
