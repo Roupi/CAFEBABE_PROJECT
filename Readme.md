@@ -1,6 +1,6 @@
 # CAFEBABE
 
-Utilisation du compilateur 
+Comment utiliser le compilateur 
 
 L'exécutable du compilateur est CAFEBABE.jar
 
